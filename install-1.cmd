@@ -1,0 +1,1 @@
+npm i https://github.com/pedroslopez/whatsapp-web.js#fix-buttons-list
